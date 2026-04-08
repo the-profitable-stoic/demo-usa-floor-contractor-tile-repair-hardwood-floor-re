@@ -1,0 +1,584 @@
+{
+  "business": {
+    "name": "USA Floor Contractor: Tile Repair & Hardwood floor refinishing",
+    "phone": "+15623626982",
+    "category": "flooring contractor",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Flooring Experts",
+      "heroSubline": "Tile repair, hardwood refinishing, and complete flooring solutions. Serving Los Angeles County with unwavering quality and dedication.",
+      "aboutTitle": "Craftsmanship You Can Trust",
+      "aboutText": [
+        "USA Floor Contractor started with a simple mission: to provide honest, reliable flooring services to the Long Beach community. We've grown from a small team to a full-service contractor, but our commitment to quality and customer satisfaction remains unchanged.",
+        "We approach every project with meticulous attention to detail, using proven techniques and premium materials. Our goal is to exceed your expectations, delivering durable and beautiful floors that enhance your home's value and appeal.",
+        "As a local business, we're invested in the well-being of Long Beach and surrounding areas. We source materials locally whenever possible and actively support community initiatives."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has decades of combined experience in all aspects of flooring installation and repair."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We only use premium-grade materials to ensure long-lasting beauty and durability."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "We're not happy until you're completely satisfied with our work."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "We offer fair and transparent pricing without compromising on quality."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Floors?",
+      "ctaSubline": "Get a free quote and discover the difference quality craftsmanship makes."
+    },
+    "services": [
+      {
+        "slug": "tile-repair",
+        "name": "Tile Repair & Replacement",
+        "shortDescription": "Restore the beauty and functionality of your tile floors and surfaces.",
+        "description": "Cracked, chipped, or loose tiles can detract from the overall appearance of your home and even pose a safety hazard. USA Floor Contractor specializes in tile repair and replacement, addressing issues quickly and efficiently. Whether you have a small area of damaged tiles or need a complete tile replacement, we have the expertise to handle the job with precision.\n\nWe work with all types of tile, including ceramic, porcelain, stone, and glass. Our technicians carefully remove damaged tiles, prepare the underlying surface, and install new tiles with expert craftsmanship. We also offer grout repair and cleaning services to restore the luster of your tile surfaces. Given Long Beach's proximity to the coast, we understand the importance of using moisture-resistant materials and techniques to prevent future damage.\n\nOur tile repair services extend to kitchens, bathrooms, patios, and pool areas. We can match existing tile patterns and colors seamlessly, ensuring a cohesive and aesthetically pleasing result. Don't let damaged tiles diminish the beauty of your home – contact USA Floor Contractor for reliable tile repair and replacement services.",
+        "process": [
+          "Step 1: Assessment of the damaged area and tile type.",
+          "Step 2: Careful removal of damaged tiles and grout.",
+          "Step 3: Preparation of the underlying surface for new tile installation.",
+          "Step 4: Precise installation of new tiles, matching existing patterns and colors."
+        ],
+        "benefits": [
+          "Restored beauty and functionality",
+          "Enhanced safety",
+          "Increased property value",
+          "Prevention of further damage"
+        ],
+        "faq": [
+          {
+            "question": "Can you match the existing tile in my bathroom?",
+            "answer": "Yes, we have access to a wide range of tile suppliers and can typically find a close match for your existing tile. If an exact match is unavailable, we can discuss alternative options that complement your design."
+          },
+          {
+            "question": "How long does tile repair typically take?",
+            "answer": "The duration of tile repair depends on the extent of the damage and the size of the area. Small repairs can often be completed in a few hours, while larger projects may take a day or two."
+          },
+          {
+            "question": "Do you offer grout cleaning and sealing services?",
+            "answer": "Yes, we offer comprehensive grout cleaning and sealing services to restore the cleanliness and protect the integrity of your grout lines."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-refinishing",
+        "name": "Hardwood Floor Refinishing",
+        "shortDescription": "Bring your worn hardwood floors back to life with our expert refinishing services.",
+        "description": "Hardwood floors add timeless elegance to any home, but they can become worn and scratched over time. USA Floor Contractor offers professional hardwood floor refinishing services to restore the natural beauty of your floors. We use dustless sanding equipment and high-quality finishes to minimize disruption and create a durable, long-lasting result.\n\nOur refinishing process involves sanding away the old finish, repairing any imperfections, and applying multiple coats of a protective finish. We offer a variety of finish options, including polyurethane, oil-based, and water-based finishes, to suit your specific needs and preferences. Given Long Beach's sunny climate, we recommend finishes with UV protection to prevent fading and discoloration.\n\nWhether you have traditional hardwood floors or engineered hardwood, we have the expertise to refinish them to perfection. We take pride in our attention to detail and our commitment to customer satisfaction. Revitalize your hardwood floors and enhance the beauty of your home with USA Floor Contractor's refinishing services.",
+        "process": [
+          "Step 1: Thorough sanding of the existing floor to remove old finish and imperfections.",
+          "Step 2: Repair of any scratches, dents, or other damage.",
+          "Step 3: Application of stain (optional) to achieve the desired color.",
+          "Step 4: Application of multiple coats of protective finish for durability and shine."
+        ],
+        "benefits": [
+          "Restored beauty and shine",
+          "Increased durability",
+          "Enhanced home value",
+          "Elimination of scratches and imperfections"
+        ],
+        "faq": [
+          {
+            "question": "How long does hardwood floor refinishing take?",
+            "answer": "The duration of hardwood floor refinishing depends on the size of the area and the complexity of the project. Most projects can be completed in 3-5 days."
+          },
+          {
+            "question": "Is dustless sanding really dustless?",
+            "answer": "While no sanding process is completely dust-free, our dustless sanding equipment significantly reduces the amount of dust produced, minimizing disruption and cleanup."
+          },
+          {
+            "question": "Can I walk on the floors immediately after refinishing?",
+            "answer": "No, you will need to wait for the finish to fully cure before walking on the floors. We will provide specific instructions on drying times and proper care."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-installation",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Affordable and stylish laminate flooring installation for any room.",
+        "description": "Laminate flooring is a popular choice for homeowners seeking a durable and cost-effective alternative to hardwood. USA Floor Contractor provides professional laminate flooring installation services, ensuring a flawless and long-lasting result. We work with a wide variety of laminate styles and colors to match your décor and budget.\n\nOur installation process begins with careful preparation of the subfloor, ensuring a smooth and level surface. We then install the laminate planks using precise techniques, paying close attention to detail and ensuring a seamless fit. We also install transitions and baseboards to complete the look. Given Long Beach's older homes with potentially uneven subfloors, proper preparation is critical for a successful laminate installation.\n\nLaminate flooring is easy to clean and maintain, making it an ideal choice for busy households. It is also resistant to scratches, stains, and fading, making it a durable option for high-traffic areas. Enhance the beauty and functionality of your home with USA Floor Contractor's laminate flooring installation services.",
+        "process": [
+          "Step 1: Thorough inspection and preparation of the subfloor.",
+          "Step 2: Installation of underlayment for moisture protection and sound insulation.",
+          "Step 3: Precise installation of laminate planks, ensuring a seamless fit.",
+          "Step 4: Installation of transitions and baseboards for a finished look."
+        ],
+        "benefits": [
+          "Affordable and stylish",
+          "Durable and easy to maintain",
+          "Wide variety of styles and colors",
+          "Professional installation"
+        ],
+        "faq": [
+          {
+            "question": "How long does laminate flooring installation take?",
+            "answer": "The duration of laminate flooring installation depends on the size of the area and the complexity of the project. Most projects can be completed in 1-3 days."
+          },
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate flooring is water-resistant, it is not completely waterproof. It is important to clean up spills promptly to prevent damage."
+          },
+          {
+            "question": "Do you offer a warranty on laminate flooring installation?",
+            "answer": "Yes, we offer a warranty on our laminate flooring installation to ensure your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Durable and waterproof vinyl flooring solutions for kitchens, bathrooms, and more.",
+        "description": "Vinyl flooring is a versatile and practical choice for homeowners seeking a waterproof and low-maintenance flooring option. USA Floor Contractor specializes in vinyl flooring installation, offering a wide variety of styles and colors to suit your needs. From luxury vinyl plank (LVP) to sheet vinyl, we have the expertise to install vinyl flooring flawlessly.\n\nVinyl flooring is an excellent choice for kitchens, bathrooms, and other areas prone to moisture. It is also resistant to scratches, stains, and fading, making it a durable option for high-traffic areas. Our installation process begins with careful preparation of the subfloor, ensuring a smooth and level surface. We then install the vinyl flooring using precise techniques, paying close attention to detail and ensuring a seamless fit. Given Long Beach's waterfront homes, vinyl's water resistance is a major advantage.\n\nEnhance the beauty and functionality of your home with USA Floor Contractor's vinyl flooring installation services. We are committed to providing exceptional quality and customer satisfaction.",
+        "process": [
+          "Step 1: Thorough inspection and preparation of the subfloor.",
+          "Step 2: Precise measurement and cutting of vinyl flooring.",
+          "Step 3: Application of adhesive (if necessary).",
+          "Step 4: Careful installation of vinyl flooring, ensuring a seamless fit."
+        ],
+        "benefits": [
+          "Waterproof and low-maintenance",
+          "Durable and long-lasting",
+          "Wide variety of styles and colors",
+          "Professional installation"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties."
+          },
+          {
+            "question": "How long does vinyl flooring installation take?",
+            "answer": "The duration of vinyl flooring installation depends on the size of the area and the complexity of the project. Most projects can be completed in 1-2 days."
+          },
+          {
+            "question": "Do you offer a warranty on vinyl flooring installation?",
+            "answer": "Yes, we offer a warranty on our vinyl flooring installation to ensure your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "floor-leveling",
+        "name": "Floor Leveling Services",
+        "shortDescription": "Ensure a smooth and even surface for your new flooring installation.",
+        "description": "Uneven floors can cause problems with flooring installation, leading to unsightly gaps, instability, and premature wear. USA Floor Contractor offers professional floor leveling services to create a smooth and even surface for your new flooring. We use a variety of techniques, including self-leveling compounds and shimming, to address unevenness and ensure a flawless result.\n\nFloor leveling is particularly important in older homes, such as those found in Belmont Shore and Naples, where settling and foundation issues can cause significant unevenness. Our experienced technicians will assess the condition of your subfloor and recommend the most appropriate leveling solution. We take pride in our attention to detail and our commitment to providing exceptional quality.\n\nDon't let uneven floors compromise the beauty and durability of your new flooring. Contact USA Floor Contractor for reliable floor leveling services.",
+        "process": [
+          "Step 1: Thorough inspection of the subfloor to identify uneven areas.",
+          "Step 2: Application of self-leveling compound or shimming as needed.",
+          "Step 3: Sanding or grinding to create a smooth and even surface.",
+          "Step 4: Final inspection to ensure a level surface for flooring installation."
+        ],
+        "benefits": [
+          "Smooth and even surface",
+          "Improved flooring stability",
+          "Enhanced durability",
+          "Prevention of premature wear"
+        ],
+        "faq": [
+          {
+            "question": "Why is floor leveling important?",
+            "answer": "Floor leveling ensures a smooth and even surface for your new flooring, preventing gaps, instability, and premature wear."
+          },
+          {
+            "question": "How do you level a floor?",
+            "answer": "We use a variety of techniques, including self-leveling compounds and shimming, to address unevenness and create a level surface."
+          },
+          {
+            "question": "How long does floor leveling take?",
+            "answer": "The duration of floor leveling depends on the extent of the unevenness and the size of the area. Most projects can be completed in 1-2 days."
+          }
+        ]
+      },
+      {
+        "slug": "baseboard-installation",
+        "name": "Baseboard & Trim Installation",
+        "shortDescription": "Add the perfect finishing touch to your flooring project with our baseboard and trim installation services.",
+        "description": "Baseboards and trim add the perfect finishing touch to any flooring project, concealing gaps and creating a polished look. USA Floor Contractor offers professional baseboard and trim installation services, ensuring a seamless and aesthetically pleasing result. We work with a wide variety of styles and materials to match your décor and preferences.\n\nOur installation process begins with precise measurement and cutting of the baseboards and trim. We then install them using expert techniques, paying close attention to detail and ensuring a tight, secure fit. We also caulk and paint the baseboards and trim to complete the look. From the Craftsman style of Bixby Knolls to the modern designs in downtown Long Beach, we can match any architectural style.\n\nEnhance the beauty and value of your home with USA Floor Contractor's baseboard and trim installation services. We are committed to providing exceptional quality and customer satisfaction.",
+        "process": [
+          "Step 1: Precise measurement and cutting of baseboards and trim.",
+          "Step 2: Careful installation of baseboards and trim, ensuring a tight fit.",
+          "Step 3: Caulking to seal gaps and create a seamless look.",
+          "Step 4: Painting or staining to match your décor."
+        ],
+        "benefits": [
+          "Polished and finished look",
+          "Concealed gaps",
+          "Enhanced home value",
+          "Professional installation"
+        ],
+        "faq": [
+          {
+            "question": "What types of baseboards and trim do you install?",
+            "answer": "We install a wide variety of baseboards and trim, including wood, MDF, and PVC."
+          },
+          {
+            "question": "Can you match the existing baseboards and trim in my home?",
+            "answer": "Yes, we can typically find a close match for your existing baseboards and trim. If an exact match is unavailable, we can discuss alternative options that complement your design."
+          },
+          {
+            "question": "How long does baseboard and trim installation take?",
+            "answer": "The duration of baseboard and trim installation depends on the size of the area and the complexity of the project. Most projects can be completed in 1-2 days."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor is proud to serve the vibrant city of Los Angeles! From the classic Spanish Colonial Revival homes of the 1920s to modern architectural marvels, we understand the diverse flooring needs of LA residents. Whether you need tile repair in your historic bungalow or hardwood floor refinishing in your contemporary condo, our expert team is here to help. We offer a wide range of flooring services, including installation, repair, and refinishing, using only the highest quality materials.\n\nLos Angeles' warm, dry climate is perfect for hardwood floors, but it can also be tough on them. Our refinishing services can restore your hardwood to its original beauty, protecting it from the elements and extending its lifespan. We also specialize in tile repair, addressing issues like cracks, chips, and loose tiles to keep your floors looking their best. Trust USA Floor Contractor to enhance the beauty and value of your Los Angeles home with our exceptional flooring services.",
+        "localContext": "Los Angeles, with its diverse architecture like the 1920s Spanish Colonial Revival homes, experiences a warm, dry climate year-round, influencing flooring choices and maintenance.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Hollywood"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor is dedicated to providing top-quality flooring services to the beautiful city of Pasadena. Known for its charming 1910s-30s Craftsman bungalows and historic architecture, Pasadena demands flooring solutions that are both aesthetically pleasing and durable. We specialize in hardwood floor refinishing and tile repair, ensuring that your Pasadena home retains its unique character and value.\n\nPasadena's warm and dry climate is ideal for many flooring materials, but it can also lead to wear and tear over time. Our expert team can assess your flooring needs and provide tailored solutions, whether you need to restore the original luster of your hardwood floors or repair damaged tiles in your kitchen or bathroom. We use only the finest materials and techniques to ensure lasting results that you'll love for years to come.",
+        "localContext": "Pasadena, characterized by its 1910s-30s Craftsman bungalows, enjoys a warm, dry climate that impacts the longevity and appearance of flooring.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor is proud to serve the master-planned community of Irvine, CA. From the 1970s to the present, Irvine homes have been built with quality and style in mind, and we're here to help you maintain and enhance your flooring. We offer a comprehensive range of flooring services, including installation, repair, and refinishing, to meet the diverse needs of Irvine homeowners.\n\nWith its warm, dry climate, Irvine is a great place to live, but the weather can take a toll on your floors. Our team of experts can assess your flooring needs and provide customized solutions to protect your investment. Whether you're looking to upgrade your carpet, repair damaged tile, or refinish your hardwood floors, USA Floor Contractor is the trusted choice in Irvine.",
+        "localContext": "Irvine, a master-planned community with homes from the 1970s-present, experiences a warm, dry climate, influencing flooring choices and maintenance requirements.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor is dedicated to providing exceptional flooring services to the residents of Santa Clarita. Known for its newer master-planned communities built from the 1990s to 2020s, Santa Clarita offers a variety of modern homes with diverse flooring needs. Whether you require new flooring installation, tile repair, or hardwood floor refinishing, our expert team is here to deliver outstanding results.\n\nSanta Clarita's warm, dry climate can impact the longevity and appearance of your floors. Our comprehensive services are designed to address these challenges, ensuring your floors remain beautiful and durable for years to come. From selecting the right materials to providing expert installation and maintenance, USA Floor Contractor is your trusted partner for all your flooring needs in Santa Clarita.",
+        "localContext": "Santa Clarita, characterized by its newer 1990s-2020s master-planned communities, has a warm, dry climate that affects flooring options and maintenance.",
+        "nearbyAreas": [
+          "Valencia",
+          "Saugus",
+          "Canyon Country"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor proudly serves the city of Torrance, CA, providing high-quality flooring solutions to homeowners throughout the area. Torrance, with its prevalent 1950s-60s post-war homes, has a unique architectural character that requires specialized flooring services. We offer a wide range of options, including tile repair, hardwood floor refinishing, and new flooring installation, tailored to the specific needs of Torrance residents.\n\nThe warm, dry climate of Torrance can affect the condition of your floors over time. Our expert team can assess your flooring needs and provide customized solutions to protect your investment. Whether you're looking to restore the original charm of your mid-century home or update your flooring with a modern style, USA Floor Contractor is the trusted choice in Torrance.",
+        "localContext": "Torrance, known for its 1950s-60s post-war homes, has a warm, dry climate that influences flooring choices and maintenance practices.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Gardena",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor is your local expert for all flooring needs in Long Beach, CA! We specialize in tile repair and hardwood floor refinishing, bringing quality craftsmanship to your home. Whether you have a charming Craftsman bungalow or a modern condo, we have the expertise to enhance your floors.\n\nLong Beach's coastal climate can be tough on floors. Our services are designed to protect your investment, ensuring your floors look beautiful and last for years. From minor repairs to complete refinishing, trust USA Floor Contractor to deliver exceptional results.",
+        "localContext": "Long Beach's diverse architectural styles and coastal climate create unique flooring challenges and opportunities.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor extends its expert flooring services to Anaheim, CA. We understand the unique flooring needs of Anaheim residents, from historic homes to modern developments. Our services include tile repair, hardwood floor refinishing, and new installations, all tailored to enhance your home's beauty and value.\n\nAnaheim's warm climate requires durable and stylish flooring solutions. Our team of professionals is equipped to handle any project, ensuring your floors are both beautiful and long-lasting. Whether you're renovating your kitchen or updating your living room, USA Floor Contractor is here to help.",
+        "localContext": "Anaheim's varied architecture and warm climate influence the types of flooring that are popular and effective.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor is proud to offer its flooring expertise to the residents of Glendale, CA. With a diverse range of homes and architectural styles, Glendale requires a variety of flooring solutions. We specialize in tile repair, hardwood floor refinishing, and new flooring installations, ensuring that your Glendale home looks its best.\n\nGlendale's warm climate and unique architectural landscape demand flooring that is both beautiful and durable. Our team provides personalized services to meet these challenges, ensuring that your floors are a lasting investment. From selecting the right materials to expert installation, USA Floor Contractor is your trusted partner in Glendale.",
+        "localContext": "Glendale's mix of architectural styles and warm climate necessitate durable and stylish flooring options.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "La Cañada Flintridge"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor is dedicated to providing top-quality flooring services to Huntington Beach, CA. Known for its coastal lifestyle and diverse housing styles, Huntington Beach requires versatile and durable flooring solutions. We offer tile repair, hardwood floor refinishing, and new installations, catering to the unique needs of Huntington Beach homeowners.\n\nThe coastal climate of Huntington Beach can impact flooring materials. Our team of experts understands these challenges and provides customized solutions to protect your investment. Whether you're renovating a beach bungalow or upgrading a family home, USA Floor Contractor is the trusted choice in Huntington Beach.",
+        "localContext": "Huntington Beach's coastal climate and diverse housing styles demand versatile and durable flooring solutions.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Riverside",
+        "slug": "riverside-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor proudly serves Riverside, CA, offering a wide range of flooring services to meet the needs of this growing city. From historic homes to new developments, Riverside residents can rely on us for expert tile repair, hardwood floor refinishing, and new flooring installations.\n\nRiverside's warm, inland climate requires durable flooring that can withstand the heat and dryness. Our team is experienced in selecting and installing the best materials for Riverside homes, ensuring long-lasting beauty and value. Trust USA Floor Contractor to enhance your Riverside home with our professional flooring services.",
+        "localContext": "Riverside's warm, inland climate necessitates durable and heat-resistant flooring options.",
+        "nearbyAreas": [
+          "Moreno Valley",
+          "Corona",
+          "San Bernardino"
+        ]
+      },
+      {
+        "city": "Ontario",
+        "slug": "ontario-ca",
+        "state": "CA",
+        "content": "USA Floor Contractor is committed to providing exceptional flooring services to Ontario, CA. With a mix of residential and commercial properties, Ontario requires a diverse range of flooring solutions. We offer tile repair, hardwood floor refinishing, and new installations, catering to both homeowners and businesses.\n\nOntario's warm climate and busy environment demand flooring that is both durable and aesthetically pleasing. Our team is dedicated to providing top-quality materials and expert workmanship, ensuring that your floors look great and last for years. Whether you're renovating your home or upgrading your business, USA Floor Contractor is your trusted partner in Ontario.",
+        "localContext": "Ontario's warm climate and diverse property types require durable and versatile flooring solutions.",
+        "nearbyAreas": [
+          "Rancho Cucamonga",
+          "Pomona",
+          "Chino"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Tile Repair",
+        "text": "I had a few cracked tiles in my kitchen, and USA Floor Contractor did an amazing job repairing them. They matched the existing tile perfectly, and you can't even tell there was ever any damage. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Hardwood Refinishing",
+        "text": "Our hardwood floors were looking dull and scratched, so we hired USA Floor Contractor to refinish them. The floors look brand new! There were a couple of minor communication issues, but overall, we're very happy with the results.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Laminate Installation",
+        "text": "USA Floor Contractor installed laminate flooring in our living room, and it looks fantastic. The installation was quick and professional, and the price was very reasonable. Would definitely use them again.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "We had USA Floor Contractor install vinyl flooring in our bathroom, and we couldn't be happier. The flooring is waterproof and looks great. The installers were very professional and courteous.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Floor Leveling",
+        "text": "USA Floor Contractor leveled our floors before installing new tile. They did a great job ensuring a smooth and even surface. There was a bit of a delay, but the quality of the work was excellent.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Baseboard & Trim Installation",
+        "text": "The team at USA Floor Contractor installed new baseboards and trim throughout our entire house. Their attention to detail was impressive, and the finished product looks amazing. Highly recommend!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "USA Floor Contractor | Long Beach Flooring",
+        "description": "Expert tile repair, hardwood refinishing, and flooring installation in Long Beach, CA. Free quotes!"
+      },
+      "about": {
+        "title": "About USA Floor Contractor | Long Beach, CA",
+        "description": "Learn about our commitment to quality flooring services in Long Beach. Experienced and reliable flooring contractors."
+      },
+      "services": {
+        "title": "Flooring Services | USA Floor Contractor",
+        "description": "Tile repair, hardwood refinishing, laminate & vinyl installation. Serving Long Beach and Los Angeles County."
+      },
+      "contact": {
+        "title": "Contact USA Floor Contractor | Long Beach, CA",
+        "description": "Get a free quote for flooring services. Contact us today for tile repair, hardwood refinishing, and more!"
+      },
+      "reviews": {
+        "title": "USA Floor Contractor Reviews | Long Beach, CA",
+        "description": "Read what our satisfied customers are saying about our flooring services in Long Beach, CA. Tile repair, hardwood, & more."
+      },
+      "service-areas": {
+        "title": "Service Areas | USA Floor Contractor",
+        "description": "Flooring services in Long Beach, Los Angeles, Pasadena, and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tile-repair": "/images/service-tile-repair.webp",
+      "hardwood-refinishing": "/images/service-hardwood-refinishing.webp",
+      "laminate-installation": "/images/service-laminate-installation.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "floor-leveling": "/images/service-floor-leveling.webp",
+      "baseboard-installation": "/images/service-baseboard-installation.webp"
+    },
+    "servicesResponsive": {
+      "tile-repair": {
+        "src": "/images/service-tile-repair.webp",
+        "srcset": "/images/service-tile-repair-400w.webp 400w, /images/service-tile-repair-800w.webp 800w, /images/service-tile-repair-1200w.webp 1200w, /images/service-tile-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-refinishing": {
+        "src": "/images/service-hardwood-refinishing.webp",
+        "srcset": "/images/service-hardwood-refinishing-400w.webp 400w, /images/service-hardwood-refinishing-800w.webp 800w, /images/service-hardwood-refinishing-1200w.webp 1200w, /images/service-hardwood-refinishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-installation": {
+        "src": "/images/service-laminate-installation.webp",
+        "srcset": "/images/service-laminate-installation-400w.webp 400w, /images/service-laminate-installation-800w.webp 800w, /images/service-laminate-installation-1200w.webp 1200w, /images/service-laminate-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-leveling": {
+        "src": "/images/service-floor-leveling.webp",
+        "srcset": "/images/service-floor-leveling-400w.webp 400w, /images/service-floor-leveling-800w.webp 800w, /images/service-floor-leveling-1200w.webp 1200w, /images/service-floor-leveling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "baseboard-installation": {
+        "src": "/images/service-baseboard-installation.webp",
+        "srcset": "/images/service-baseboard-installation-400w.webp 400w, /images/service-baseboard-installation-800w.webp 800w, /images/service-baseboard-installation-1200w.webp 1200w, /images/service-baseboard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
